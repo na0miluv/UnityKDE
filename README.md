@@ -6,4 +6,3 @@ Bunch of dot files to make KDE behave like Unity using Latte Dock
 - Window Buttons applet
 - Window Title applet
 - Window App Menu applet
-- Present Active Windows Applet
