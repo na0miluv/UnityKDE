@@ -6,3 +6,8 @@ Bunch of dot files to make KDE behave like Unity using Latte Dock
 - Window Buttons applet
 - Window Title applet
 - Window App Menu applet
+- Event Calendar applet
+
+##Optional
+- Ubuntu fonts
+- Firefox and Thunderbird with appmenu patch for consistency sake
