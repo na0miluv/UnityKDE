@@ -11,3 +11,5 @@ Bunch of dot files to make KDE behave like Unity using Latte Dock
 ##Optional
 - Ubuntu fonts
 - Firefox and Thunderbird with appmenu patch for consistency sake
+
+![alt text](https://github.com/AlexyBot/UnityKDE/blob/main/unityKDE.png?raw=true)
